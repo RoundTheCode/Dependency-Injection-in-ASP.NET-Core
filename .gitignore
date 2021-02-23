@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+*.suo
+RoundTheCode.Pdf/Invoice.pdf
+RoundTheCode.Pdf/RoundTheCode.pdf
